@@ -1,6 +1,7 @@
 # To-do List
 
-Este é um projeto de uma to-do list simples com modal, feita utilizando Node.js, JavaScript, CSS, EJS e MongoDB. Ele permite que os usuários criem, editem e completem tarefas que ficam salvas no Banco de Dados.
+Este é um projeto de uma to-do list simples com modal, feita utilizando Node.js, JavaScript, CSS, EJS e MongoDB. 
+Ele permite que os usuários criem, editem e completem tarefas isso é feito por meio de um CRUD (create, read, update, delete) que manipula as informações no Banco de Dados.
 ![To-do List](https://i.imgur.com/eW9FvkD.png)
 
 ## O que é?
